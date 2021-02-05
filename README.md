@@ -33,5 +33,17 @@ This information is to connect with your local Database. **Change the informatio
 
 **In this project I use MYSQL**, so you must have SQL installed on your computer. If you don´t have SQL you must install it, otherwise you will not be able to run the project
 
+Once you have done the steps above, you only have to run the "run.py" file with the following command:
+
+python3 run.py
+
+After that, you will see that the service is already (on your localhost in the port 8080).
+
+In this project I made two endpoints, ones to only test the flattening, and the other to test the flattening en save the result in the database.
+
+To test the service you can use Postman (I used it), if you want to save the result in the database you have to use "/flatten", and if you only want to see the result you have to use "/onlyFlatten".
+
+
+
 
 
