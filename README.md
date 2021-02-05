@@ -24,10 +24,10 @@ pip3 install -r requirements.txt
 
 The .env file must be in the same folder and it must have the following information:
 
-_DB_HOST=127.0.0.1
-_DB_USER=User
-_DB_PASS=Password
-_DB_NAME=DataBase
+- DB_HOST=127.0.0.1
+- DB_USER=User
+- DB_PASS=Password
+- DB_NAME=DataBase
 
 This information is to connect with your local Database. **Change the information for your own credentials**.
 
