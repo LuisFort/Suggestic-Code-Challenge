@@ -60,5 +60,7 @@ To test the service you can use Postman (I used it), if you want to save the res
 <img src="images/database.png" title="saving_database">
 
 
+If you only want to test the function to flatten the sequence, run the "flatten.py" 
 
+<img src="images/only_flatten.png" title="only_flatten">
 
