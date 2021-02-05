@@ -22,6 +22,8 @@ pip3 install -r requirements.txt
 
 **Now you must create your own .env file, without it you will get an error when you're trying to run the app.**
 
+<img src="images/creating_env.png" width="350" title="hover text">
+
 The .env file must be in the same folder and it must have the following information:
 
 - DB_HOST=127.0.0.1
