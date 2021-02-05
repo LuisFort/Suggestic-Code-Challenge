@@ -45,7 +45,7 @@ After that, you will see that the service is already (on your localhost in the p
 <img src="images/running_app.png" title="creating_env_file">
 
 
-In this project I made two endpoints, ones to only test the flattening, and the other to test the flattening en save the result in the database.
+In this project I made two endpoints, ones to only test the flattening, and the other to test the flattening and save the result in the database.
 
 To test the service you can use Postman (I used it), if you want to save the result in the database you have to use "/flatten", and if you only want to see the result you have to use "/onlyFlatten".
 
